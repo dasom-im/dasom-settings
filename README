@@ -1,0 +1,18 @@
+dasom-settings is a configuration tool for Dasom
+
+Project Homepage: https://github.com/dasom-im/dasom-settings
+
+
+INSTALL
+-------
+
+  * Compile
+
+    ./autogen.sh
+    make
+    sudo make install
+
+
+References
+----------
+  https://github.com/dasom-im/dasom

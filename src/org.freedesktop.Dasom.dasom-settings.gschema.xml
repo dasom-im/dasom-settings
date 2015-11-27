@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.freedesktop.Dasom.dasom-settings"
+          path="/org/freedesktop/dasom/dasom-settings/">
+  </schema>
+</schemalist>
